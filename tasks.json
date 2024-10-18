@@ -1,0 +1,20 @@
+[
+    {
+        "title": "To complete project",
+        "description": "To do List App",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "title": "to buy groceries",
+        "description": "rice, wheat,eggs",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "title": "last week python project",
+        "description": "New App",
+        "category": "Work",
+        "completed": false
+    }
+]
